@@ -4,7 +4,7 @@
   - 앱은 실시간 데이터베이스(Firebase)를 활용하여 약의 정보와 약국과 병원의 위치 및 정보를 관리하며, 사용자에게 직관적이고 효율적인 UI를 제공합니다
     
 ・ 프로그램 설치 URL (데모 앱 다운로드 링크)
-  - https://drive.google.com/file/d/1X9U1DEcSrSl-_S30CBxY5GdF4egOp21v/view?usp=drive_link
+  - https://drive.google.com/file/d/13zWkf9hYahWQG4uSKm02zQDRxcmCjpst/view?usp=drive_link
 
 ・ App Description : 어플리케이션 사용방법 설명
   - 앱을 실행하여 병원과 약국의 위치와 정보를 조회 할 수 있고, 자신의 신체 정보를 가지고 BMI 측정 또한 할 수 있습니다.
