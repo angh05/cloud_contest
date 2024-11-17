@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "936700161153",
+    "project_id": "cloud-contest3",
+    "storage_bucket": "cloud-contest3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936700161153:android:041c020bb92ac7dce63180",
+        "android_client_info": {
+          "package_name": "com.example.cloud_contest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoV-wSla-p6KFuEe6rDBQyxYE70AY6sc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
